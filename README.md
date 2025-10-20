@@ -1,2 +1,2 @@
 # calculadora
-projeto de HTTML CSS JAVA SCRIPT
+projeto de HTML, CSS e JavaScript
